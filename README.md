@@ -3,11 +3,11 @@ Este projeto aplica o **NotebookLM** como ferramenta de **Inteligência Artifici
 
 O NotebookLM desenvolvido neste projeto pode ser acessado por meio do link abaixo:
 
-https://notebooklm.google.com/notebook/43d13da4-4b6e-418b-958b-4ec1a06f77b3
+[NotebookLM 🌐](https://notebooklm.google.com/notebook/43d13da4-4b6e-418b-958b-4ec1a06f77b3)
 
 ___
 
-## Objetivo do Projeto
+## Objetivo do Projeto 🎯
 
 - Criação de um caderno temático no NotebookLM sobre um assunto financeiro introdutório.
 - Definir objetivos de estudo
@@ -16,7 +16,7 @@ ___
 
 ___
 
-## Funcionalidades do NotebookLM
+## Funcionalidades do NotebookLM ⚙
 
 - Resumos conceituais
 - Mapas mentais
@@ -30,7 +30,7 @@ ___
 
 ___
 
-## Fontes
+## Fontes 📚
 
 ### As fontes utilizadas podem ser acessadas dentro do Projeto, sendo elas:
 - Análise Estrutural e Operacional do Mercado de Capitais Brasileiro
@@ -42,14 +42,14 @@ Caso seja preferível, acesse as fontes em **[/fontes](./fontes)**.
 
 ___
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - NotebookLM
 - IA Generativa
 
 ___
 
-## Demonstração do Funcionamento
+## Demonstração do Funcionamento 
 
 ### Exemplos de uso do NotebookLM, incluindo:
 
