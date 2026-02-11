@@ -18,7 +18,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 
 **Resultado:**  
 ![Tela do Prompt](./midia/demo_ex1.png)
-![Resultado da Resposta](./midia/demo_ex2.png)
+![Resultado da Resposta](./midia/demo2_ex1.png)
 
 ---
 
@@ -28,7 +28,7 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 "Gostaria que você fizesse um resumo curto, em parágrafos de prosa, sobre como ter bem-estar financeiro."
 
 **Resultado:**  
-![Tela do Prompt](./midia/demo2_ex1.png)
+![Tela do Prompt](./midia/demo_ex2.png)
 
 ---
 
@@ -63,4 +63,5 @@ Todas as respostas apresentadas são baseadas exclusivamente nas fontes carregad
 ---
 
 ## Observação
+
 Os exemplos apresentados têm finalidade exclusivamente educacional e demonstrativa.
